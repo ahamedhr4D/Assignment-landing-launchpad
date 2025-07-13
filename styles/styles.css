@@ -36,6 +36,11 @@ nav {
     color:#FFFFFF ;
     
 }
+.btn-pr:hover{
+    background-color: #d2d1f1;
+    cursor: pointer;
+    color: #000000;
+}
 .nav1 h1{
     font-size: 50px;
    font-weight: bolder; 
@@ -161,6 +166,11 @@ font-weight: bold;
     background-color: #4E47FF;
     color: #FFFFFF;
     font-size: 20px;
+    cursor: pointer;
+}
+.sec5 input[type="button"]:hover{
+ background-color: beige;
+ color: #000000;
 }
 .sec5 label{
     font-size: 20px;

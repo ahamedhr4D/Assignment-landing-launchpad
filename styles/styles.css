@@ -89,9 +89,16 @@ nav {
     color: #000000;
 }
 /* sec3 */
+.sec3 h1{
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
 .users-say{
     background-color:#e2edee ;
-    width: 350px;
+    width: 380px;
     padding: 20px 20px;
     border-radius: 10px;
 }
@@ -101,4 +108,28 @@ nav {
 }
 .users-img img{
     border-radius: 500px;
+}
+.users-flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 300px;
+    margin-bottom: 150px;
+}
+/* sec4 */
+.sec4{
+    text-align: center;
+    background-color: antiquewhite;
+    width:68.5%;
+    margin-left: 300px;
+    border-radius: 30px;
+    padding: 50px 0;
+}
+.sec4 h1{
+font-size: 50px;
+font-weight: bold;
+}
+.sec4 img{
+    margin-top: 40px;
+    border-radius: 50px;
+    margin-bottom: 30px;
 }
